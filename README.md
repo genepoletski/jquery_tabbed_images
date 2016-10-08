@@ -1,5 +1,5 @@
-# jQuery plugin "jquery_image_viewer"
-jQuery plugin for viewing images collection
+# jQuery plugin "jquery_tabbed_images"
+jQuery plugin for swithching images with tabs
 
 ## Usage
 1. Load plugin ( with &lt;script&gt;, require() e.t.c.)
@@ -19,6 +19,7 @@ Edit plugin inner object configMap to setup plugin options or pass them on viewe
 | img_list                 | array  | images paths the array of strings | [ 'imgs/image01.jpg', 'imgs/image02.jpg' ] |
 
 ## Git pages
+https://web-developer-poletski.github.io/jquery_tabbed_images/
 
 ## Releases
-1.0.0
+1.0.0 https://github.com/web-developer-poletski/jquery_tabbed_images/releases/tag/v1.0.0
